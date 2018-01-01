@@ -1,4 +1,7 @@
-/bin/ 
-/libs/ 
-/gen/ 
-
+bin/
+target/
+gen/
+.project
+.settings
+.settings/
+libs/
