@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ustawienia</string>
+	<string name="msg_directory_not_contains_files">Katalog jest pusty!</string>
+	<string name="file_execute">Uruchom</string>
+	<string name="file_send">Wyślij</string>
+	<string name="file_info">Informacje</string>
+	<string name="unsupported_file_format">Nieobsługiwany format pliku</string>
+	<string name="what_to_do">Co chcesz zrobić z plikiem?</string>
+</resources>
